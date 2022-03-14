@@ -1,5 +1,9 @@
 ## Custom hook for react: useWindowSize
 
+### Install
+
+```yarn add @revolt-digital/use-window-size```
+
 ### How to use it?
 
 ```
@@ -11,25 +15,4 @@ export default () => {
 
     return <div>Hello there!</div>;
 };
-```
-
-### Integrate
-
-```yarn add @revolt-digital/use-window-size```
-
-The lib was made in typescript.
-So, to integrate it add in your tsconfig.json that line:
-
-```
-{
-  "compilerOptions": {
-    ...
-  },
-  "include": [
-    ...
-    "node_modules/@revolt-digital/use-window-size/**.ts"
-  ],
-  "exclude": ["node_modules"]
-}
-
 ```
