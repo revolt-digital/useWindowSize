@@ -13,6 +13,6 @@ import useWindowSize from '@revolt-digital/use-window-size';
 export default () => {
     const { width, height } = useWindowSize(); 
 
-    return <div>Hello there!</div>;
+    return <div>width: {width} height: {height}</div>;
 };
 ```
