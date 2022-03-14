@@ -1,0 +1,11 @@
+{
+  "name": "use-window-size",
+  "version": "0.0.1",
+  "main": "useWindowSize.ts",
+  "repository": "git@github.com:revolt-digital/useWindowSize.git",
+  "author": "fernandomunoz <fernando.munoz@revolt.digital>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  }
+}
