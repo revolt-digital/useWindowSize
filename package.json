@@ -1,6 +1,6 @@
 {
-  "name": "use-window-size",
-  "version": "0.0.1",
+  "name": "@revolt-digital/use-window-size",
+  "version": "0.0.3",
   "private": false,
   "main": "useWindowSize.ts",
   "repository": "git@github.com:revolt-digital/useWindowSize.git",
