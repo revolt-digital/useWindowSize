@@ -2,6 +2,9 @@
   "name": "@revolt-digital/use-window-size",
   "version": "0.0.7",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
